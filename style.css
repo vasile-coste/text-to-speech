@@ -1,0 +1,14 @@
+.content {
+    text-align: center;
+    width: 100%;
+}
+
+.btnTalk {
+    border: 1px solid green;
+    padding: 1rem;
+    border-radius: 50%;
+}
+
+.textArea {
+    margin-top: .5rem;
+}
